@@ -8,6 +8,7 @@
 
 
 ## Project Objectives
+---
 The objectives of the project are as follows:
 - **Enhance Profitability:** Identify and analyse factors that impact profitability across different product categories, sellers, and regions to improve overall profit margins.
 - **Maximise Resource Allocation:** Optimise the distribution of marketing and operational resources by focusing on high-performing product categories and regions to drive the most significant growth and profitability.
@@ -15,6 +16,7 @@ The objectives of the project are as follows:
 - **Enable Data-Driven Decisions:** Empower the company to make informed, data-driven decisions by leveraging sales and profitability trends for effective strategic planning and performance evaluation.
 
 ## Data Description
+---
 The project dataset represents sales and profitability information for various products across different regions and months. It includes the following columns:
 - `Month:` The month in which the sales occurred.
 - `Seller:` The name of the individual or entity selling the product.
@@ -26,53 +28,53 @@ The project dataset represents sales and profitability information for various p
 
 ## Analysis and Insights 
 ---
-**Key Performance Metrics**
+#### **Key Performance Metrics**
 
-**Total Sales**: £981,140.21
-**Total Profit**: £448,020.64
-**Total Quantity Sold**: 593
-**Profit Margin**: 46%
+- **Total Sales**: £981,140.21
+- **Total Profit**: £448,020.64
+- **Total Quantity Sold**: 593
+- **Profit Margin**: 46%
 
-**Monthly Sales & Profit Trends**
+#### **Monthly Sales & Profit Trends**
 
-**Peak Sales**: April (£117,785), followed by January and June.
-**Lowest Sales**: December (£45,963), showing a steady decline in the last quarter.
+- **Peak Sales**: April (£117,785), followed by January and June.
+- **Lowest Sales**: December (£45,963), showing a steady decline in the last quarter.
 **Observation**: Profit trend does not always follow sales — e.g., May has lower sales (£51,206) but a higher profit than June.
 
 
-**Top Sales Performers**
-
-**Bob**: £170,973 sales, £67,730 profit
-**Alice**: £148,639 sales, £68,976 profit
-**Dave**: £146,424 sales, £51,505 profit
-**Grace**: £138,483 sales, **highest profit** (£78,334)
+#### **Top Sales Performers**
+- **Bob**: £170,973 sales, £67,730 profit 
+- **Alice**: £148,639 sales, £68,976 profit
+- **Dave**: £146,424 sales, £51,505 profit
+- **Grace**: £138,483 sales, **highest profit** (£78,334)
 **Insight**: While Bob led in total sales, **Grace had the highest profitability**, indicating better margins or cost control.
 
 
-**Sales by Category**
+#### **Sales by Category**
 
-**Top Category (Sales)**: Sports & Fitness – £237,438
-**Top Category (Profit)**: Sports & Fitness – £106,809
-**Lowest Margin Category**: Food & Beverages – Profit £72,951 on £170,207 sales
+- **Top Category (Sales)**: Sports & Fitness – £237,438
+- **Top Category (Profit)**: Sports & Fitness – £106,809
+- **Lowest Margin Category**: Food & Beverages – Profit £72,951 on £170,207 sales
 **Insight**: **Sports & Fitness** outperforms in both sales and profitability. Food & Beverages has a weaker margin despite decent sales.
 
 
-**Sales by State**
+#### **Sales by State**
 
-**Top State**: Texas – £123,245.15
-**Other active states**: California, Florida, Illinois, New York, Pennsylvania
+- **Top State**: Texas – £123,245.15
+- **Other active states**: California, Florida, Illinois, New York, Pennsylvania
 **Insight**: Texas leads by a significant margin; consider expanding marketing/supply there.
 
 
-**Category-Wise Profit Margins (Visual icons)**
+#### **Category-Wise Profit Margins (Visual icons)**
 
-**Highest Margin**: Electronics (49%)
-**Lowest Margin**: Food & Beverages (43%)
+- **Highest Margin**: Electronics (49%)
+- **Lowest Margin**: Food & Beverages (43%)
 Others hover around 44%–48%
 **Insight**: Electronics have a smaller sales volume than Sports & Fitness but yield higher profit margins.
 
 
-**Conclusion**
+## **Conclusion**
+---
 This dashboard analysis has helped to identify:
 
 **High-performing products and salespeople** to focus on incentives and resources.
