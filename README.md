@@ -4,9 +4,6 @@
 ---
 **Elite Retail Shop Sales Dashboard** is a dynamic and interactive Microsoft Excel solution developed for Elite Retail Hub — a leading retailer specialising in electronics, clothing, sports and fitness, food and beverages, and home appliances. This dashboard provides insights into top-performing products, high-demand regions, and sales trends, enabling data-driven decisions to enhance marketing efforts, optimise inventory, and inform strategic expansion for long-term growth and profitability.
 
-![Dashboad](https://github.com/user-attachments/assets/04ed71da-267a-4e98-b31b-d718c03f9782)
-
-
 ## Project Objectives
 ---
 The objectives of the project are as follows:
@@ -28,6 +25,10 @@ The project dataset represents sales and profitability information for various p
 
 ## Analysis and Insights 
 ---
+
+![Dashboad](https://github.com/user-attachments/assets/04ed71da-267a-4e98-b31b-d718c03f9782)
+
+
 #### **Key Performance Metrics**
 
 - **Total Sales**: £981,140.21
