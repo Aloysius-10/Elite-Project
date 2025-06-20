@@ -38,8 +38,9 @@ The project dataset represents sales and profitability information for various p
 #### **Monthly Sales & Profit Trends**
 
 - **Peak Sales**: April (£117,785), followed by January and June.
-- **Lowest Sales**: December (£45,963), showing a steady decline in the last quarter.
-**Observation**: Profit trend does not always follow sales — e.g., May has lower sales (£51,206) but a higher profit than June.
+- **Lowest Sales**: December (£45,963), indicating a steady decline in sales over the last quarter.
+
+**Observation**: It is observed that the profit trend does not always follow sales. For example, May has lower sales (£51,206) but a higher profit than June.
 
 
 #### **Top Sales Performers**
@@ -47,6 +48,7 @@ The project dataset represents sales and profitability information for various p
 - **Alice**: £148,639 sales, £68,976 profit
 - **Dave**: £146,424 sales, £51,505 profit
 - **Grace**: £138,483 sales, **highest profit** (£78,334)
+
 **Insight**: While Bob led in total sales, **Grace had the highest profitability**, indicating better margins or cost control.
 
 
@@ -55,6 +57,7 @@ The project dataset represents sales and profitability information for various p
 - **Top Category (Sales)**: Sports & Fitness – £237,438
 - **Top Category (Profit)**: Sports & Fitness – £106,809
 - **Lowest Margin Category**: Food & Beverages – Profit £72,951 on £170,207 sales
+
 **Insight**: **Sports & Fitness** outperforms in both sales and profitability. Food & Beverages has a weaker margin despite decent sales.
 
 
@@ -62,14 +65,16 @@ The project dataset represents sales and profitability information for various p
 
 - **Top State**: Texas – £123,245.15
 - **Other active states**: California, Florida, Illinois, New York, Pennsylvania
-**Insight**: Texas leads by a significant margin; consider expanding marketing/supply there.
+
+**Insight**: It is clear that Texas leads by a significant margin; there is a need to consider expanding marketing and supply in that location.
 
 
 #### **Category-Wise Profit Margins (Visual icons)**
 
 - **Highest Margin**: Electronics (49%)
 - **Lowest Margin**: Food & Beverages (43%)
-Others hover around 44%–48%
+- Others hover around 44%–48%
+
 **Insight**: Electronics have a smaller sales volume than Sports & Fitness but yield higher profit margins.
 
 
