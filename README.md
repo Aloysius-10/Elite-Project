@@ -82,10 +82,10 @@ The project dataset represents sales and profitability information for various p
 ---
 This dashboard analysis has helped to identify:
 
-**High-performing products and salespeople** to focus on incentives and resources.
-**Time-based sales fluctuations**, allowing better seasonal planning.
-**Profitable categories (e.g., Sports & Fitness, Electronics)**, guiding inventory decisions.
-**State-level insights**, especially the outstanding performance in Texas, pointing to regional growth opportunities.
+- **High-performing products and salespeople** to focus on incentives and resources.
+- **Time-based sales fluctuations**, allowing better seasonal planning.
+- **Profitable categories (e.g., Sports & Fitness, Electronics)**, guiding inventory decisions.
+- **State-level insights**, especially the outstanding performance in Texas, pointing to regional growth opportunities.
 
 Overall, the analysis supports strategic decisions to **maximise profit**, **optimise sales force effectiveness**, and **prioritise high-margin product lines**, directly addressing the challenge of improving sales efficiency and profitability.
 
